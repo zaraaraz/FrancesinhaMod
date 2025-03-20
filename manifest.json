@@ -1,0 +1,9 @@
+{
+    "name": "FrancesinhaMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/zaraaraz/FrancesinhaMod",
+    "description": "Adiciona a deliciosa Francesinha ao Valheim. Mata fome e aumenta stamina! Prepare-se para experimentar essa iguaria portuguesa no jogo!",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
